@@ -1,0 +1,17 @@
+# Ignore Remix dependencies
+.deps/
+
+# Ignore Remix compiled files
+artifacts/
+bin/
+*.json
+*.abi
+*.bin
+*.solast
+*.dbg.json
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
